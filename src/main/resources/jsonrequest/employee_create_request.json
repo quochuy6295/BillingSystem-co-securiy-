@@ -1,0 +1,24 @@
+{
+  "fullName": "Barathan Suresh",
+  "user": {
+    "type": null,
+    "emailId": "barathan@mycompany.com",
+    "password": "123",
+    "rePassword": "123",
+    "firstName": "Barathan",
+    "middleName": "",
+    "lastName": "Suresh",
+    "mobileNo": "93838383",
+    "addressList": [
+      {
+        "address1": "1s Cross street",
+        "address2": "2nd Avenue",
+        "city": "Chennai",
+        "state": "TN",
+        "country": "India",
+        "landmark": "Near xyz Mahal",
+        "mobile": "93838383"
+      }
+    ]
+  }
+}

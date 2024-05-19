@@ -1,0 +1,24 @@
+{
+  "fullName": "Ragu Ram",
+  "user": {
+    "type": null,
+    "emailId": "ragu@babycare.com",
+    "password": "123",
+    "rePassword": "123",
+    "firstName": "Ragu",
+    "middleName": "",
+    "lastName": "Ram",
+    "mobileNo": "171717171",
+    "addressList": [
+      {
+        "address1": "Amman koil street",
+        "address2": "People Nagar",
+        "city": "Trichy",
+        "state": "TN",
+        "country": "India",
+        "landmark": "Near xyz Temple",
+        "mobile": "17171717"
+      }
+    ]
+  }
+}

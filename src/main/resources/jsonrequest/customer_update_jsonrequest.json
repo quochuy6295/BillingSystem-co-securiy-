@@ -1,0 +1,35 @@
+{
+  "id": 1,
+  "type": null,
+  "fullName": "Suresh Stalin",
+  "customerCode": "CUS29668",
+  "user": {
+    "id": 2,
+    "type": null,
+    "emailId": "suresh.stalin@gmail.com",
+    "password": "123",
+    "rePassword": null,
+    "firstName": "Suresh",
+    "middleName": "",
+    "lastName": "Stalin",
+    "mobileNo": "87626262",
+    "addressList": [
+      {
+        "id": 2,
+        "address1": "address1",
+        "address2": "address2",
+        "city": "Chennai",
+        "state": "TN",
+        "country": "India",
+        "landmark": ""
+      }
+    ],
+    "roles": [
+      {
+        "id": 1,
+        "name": "ROLE_DEFAULT",
+        "description": "The default role"
+      }
+    ]
+  }
+}
